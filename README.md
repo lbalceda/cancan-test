@@ -1,0 +1,1 @@
+playing around with cancan, based loosely on http://railsapps.github.com/tutorial-rails-bootstrap-devise-cancan.html
